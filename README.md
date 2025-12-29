@@ -5,7 +5,29 @@ No mobile support (yet).
 Tech: javascript, react, konva
 
 Requirements: Jupiler
+
 Soundtrack: https://www.youtube.com/watch?v=ZqkzfrxJR6k , https://www.youtube.com/watch?v=l_Tba26wHSY (the pause before the stop had more impact ;) ), ...
+
+# run
+
+install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+install [node.js](https://nodejs.org/en/download)
+
+[open terminal](https://www.google.com/search?q=open+terminal+different+operating+systems)
+
+and execute (per line):
+
+```
+git clone https://github.com/tim-cools/tetris.git
+cd tetris
+yarn install
+```
+
+Start tetris:
+
+```
+yarn start
+```
 
 Obviously needs refactoring.
 - [ ] refactor Field.js into separated component files, extract consts into state
