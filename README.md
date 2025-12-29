@@ -4,7 +4,7 @@ No mobile support (yet).
 
 Tech: javascript, react, konva
 
-Requirements: Jupiler
+Requirements: Jupiler (or S Artois, Leffe, Duvel, ...)
 
 Soundtrack: https://www.youtube.com/watch?v=ZqkzfrxJR6k , https://www.youtube.com/watch?v=l_Tba26wHSY (the pause before the stop had more impact ;) ), ...
 
@@ -28,6 +28,8 @@ Start tetris:
 ```
 yarn start
 ```
+
+# todo
 
 Obviously needs refactoring.
 - [ ] refactor Field.js into separated component files, extract consts into state
