@@ -5,6 +5,7 @@ No mobile support (yet).
 Tech: javascript, react, konva
 
 Requirements: Jupiler
+Soundtrack: https://www.youtube.com/watch?v=ZqkzfrxJR6k , ...
 
 Obviously needs refactoring.
 - [ ] refactor Field.js into separated component files, extract consts into state
